@@ -1,0 +1,14 @@
+name: ogc_workshop
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - geopandas
+  - rasterio
+  - xarray
+  - rioxarray
+  - owslib
+  - numpy
+  - matplotlib
+  - pandas
+  - descartes

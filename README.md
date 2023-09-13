@@ -1,6 +1,6 @@
-<img src="./img/logo.png" align="right" width="50%"></img>
-# iAtlantic GeoNode Workshop
-### Tier 2: How to use OGC webservices offered by the iAtlantic GeoNode in your data analysis
+<img src="./img/Logo.png" align="right" width="50%"></img>
+# Mission Atlantic GeoNode Workshop
+### Tier 2: How to use OGC webservices offered by the Mission Atlantic GeoNode in your data analysis
 
 **Duration:** 40 min
 

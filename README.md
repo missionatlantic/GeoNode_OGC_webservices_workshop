@@ -16,6 +16,7 @@
 
 **Open in interactive mode:**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iAtlanticGeoNode/OGC_webservices_workshop/master?urlpath=lab/tree/0_Introduction_to_OGC_web_services.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MissionAtlanticGeoNode/OGC_webservices_workshop/HEAD)
+
 
 

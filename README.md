@@ -1,6 +1,6 @@
 <img src="./img/Logo.png" align="right" width="50%"></img>
 # Mission Atlantic GeoNode Workshop
-## How to use OGC webservices offered by the Mission Atlantic GeoNode in your data analysis
+# How to use OGC webservices offered by the Mission Atlantic GeoNode in your data analysis
 
 **Duration:** 40 min
 

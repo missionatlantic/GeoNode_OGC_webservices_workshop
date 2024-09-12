@@ -4,7 +4,7 @@
 
 **Duration:** 40 min
 
-**Target audience:** this workshop will make use of Python Notebooks and common GIS Software (ArcGIS and QGIS), basic knowledge of python and/or GIS software is recommended.
+**Target audience:** this workshop will make use of Python Notebooks and common GIS Software (ArcGIS and QGIS), basic knowledge of Python and/or GIS software is recommended.
 
 **Content:**
 

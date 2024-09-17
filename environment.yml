@@ -12,4 +12,6 @@ dependencies:
   - matplotlib
   - pandas
   - descartes
+  - contextily
+
 

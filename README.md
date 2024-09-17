@@ -16,7 +16,7 @@
 
 **Open in interactive mode:**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MissionAtlanticGeoNode/OGC_webservices_workshop/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/missionatlantic/GeoNode_OGC_webservices_workshop/HEAD)
 
 
 

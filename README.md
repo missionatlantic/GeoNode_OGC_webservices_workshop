@@ -12,7 +12,7 @@
 - [Search through metadata using the OGC Catalogue Service (CSW)](./1_search_metadata_with_CSW.ipynb) 
 - [Visualize data using OGC Web Mapping Service (WMS)](./2_visualize_data_with_WMS.ipynb) 
 - [Subset and download data using OGC Web Feature and Coverage Services (WFS/WCS)](./3_subset_and_download_data_with_WFS&WCS.ipynb)
-- [Use OGC services with QGIS and/or ArcGIS](./4_OGC_services_from_QGIS_and_ArcGIS.ipynb)
+- [Use OGC services with QGIS and/or ArcGIS](./4_OGC_services_from_common_GIS_software.ipynb)
 
 **Open in interactive mode:**
 
